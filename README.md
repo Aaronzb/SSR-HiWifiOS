@@ -17,7 +17,7 @@ Windows: 使用PuTTY或xShell登录 (个人比较偏好xShell)，具体使用方
 ### 3. 便捷脚本安装：
 脚本1：cd /tmp && wget https://github.com/uwtom/SSR-HiWifiOS/raw/master/hiwifissr_1.sh && sh hiwifissr_1.sh && rm hiwifissr_1.sh
 <br>
-脚本2：(转载自：[盘尼西林 - 极路由刷SSR插件教程 (适用于1S/2/3/4/B50/B70等机型)](https://pannixilin.com/archives/B70%E5%88%B7%E6%9C%BA.html)
+脚本2：(转载自：[盘尼西林 - 极路由刷SSR插件教程 (适用于1S/2/3/4/B50/B70等机型)](https://pannixilin.com/archives/B70%E5%88%B7%E6%9C%BA.html))
 <br>
 cd /tmp
 <br>
