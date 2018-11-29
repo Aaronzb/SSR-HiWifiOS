@@ -18,7 +18,7 @@ Windows: 使用PuTTY或xShell登录 (个人比较偏好xShell)，具体使用方
 (转载自：[盘尼西林 - 极路由刷SSR插件教程 (适用于1S/2/3/4/B50/B70等机型)](https://pannixilin.com/archives/B70%E5%88%B7%E6%9C%BA.html))
 ```bash
 cd /tmp
-echo "127.0.0.1 hiwifiss.ml" > /etc/hosts.d/aa;rm -f /tmp/hiwifissr_2.sh;/etc/init.d/dnsmasq restart;curl -k https://github.com/uwtom/SSR-HiWifiOS/blob/master/hiwifissr_2.sh -o hiwifissr_2.sh;chmod +x /tmp/hiwifissr_2.sh && sh /tmp/hiwifissr_2.sh
+echo "127.0.0.1 hiwifiss.ml" > /etc/hosts.d/aa;rm -f /tmp/hiwifissr_2.sh;/etc/init.d/dnsmasq restart;curl -k https://raw.githubusercontent.com/uwtom/SSR-HiWifiOS/master/hiwifissr_2.sh -o hiwifissr_2.sh;chmod +x /tmp/hiwifissr_2.sh && sh /tmp/hiwifissr_2.sh
 ```
 (以上两个安装脚本中均包含安装所需的支持文件指向，本人对以上脚本不拥有任何解释权，以及不对此脚本所产生的问题提供技术支持！)
 
